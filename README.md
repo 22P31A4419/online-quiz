@@ -17,5 +17,11 @@ A simple and interactive web-based quiz application built using HTML, CSS, and J
 3.JavaScript (ES6)
 # Getting Started
 # clone repository
+gh repo clone 22P31A4419/online-quiz
 
-
+# Releases
+No releases published
+# Packages
+No packages published
+# Languages
+![WhatsApp Image 2025-05-26 at 18 36 31_7f0a123a](https://github.com/user-attachments/assets/ec0f1da2-3d5e-4315-91bf-f193748fafec)
