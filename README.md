@@ -8,7 +8,8 @@ A simple and interactive web-based quiz application built using HTML, CSS, and J
 5.Responsive design for all screen sizes
 6.No backend required – runs entirely in the browser
 # Demo
-![WhatsApp Image 2025-05-26 at 18 27 00_19c94f01](https://github.com/user-attachments/assets/c19ca44b-7893-4476-a5fa-18d15662808e)
+![WhatsApp Image 2025-05-26 at 18 31 03_085a2d9c](https://github.com/user-attachments/assets/92661cd8-ac9a-49fd-9dcb-b483988d6d88)
+
 
 # Technologies Used
 1.HTML5
